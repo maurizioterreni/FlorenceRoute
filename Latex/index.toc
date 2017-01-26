@@ -1,0 +1,8 @@
+\contentsline {chapter}{\numberline {1}Florence Routes}{7}
+\contentsline {section}{\numberline {1.1}Selezione dei Point of interest}{7}
+\contentsline {section}{\numberline {1.2}Routes}{8}
+\contentsline {section}{\numberline {1.3}Facebook e Foursquare}{10}
+\contentsline {chapter}{\numberline {2}Programmazione}{13}
+\contentsline {section}{\numberline {2.1}Selezione Dei Point of interest}{13}
+\contentsline {section}{\numberline {2.2}Routes}{13}
+\contentsline {section}{\numberline {2.3}Facebook e Foursquare}{14}
